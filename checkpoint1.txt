@@ -1,0 +1,35 @@
+
+25/11/2020 
+
+*****   Comment fonctionne le web ?  ****
+
+Le web est un systeme qui fonctionne sur internet en connectant  le  client par serveur qui permet  d'intéroger des  pages et reliee .   
+
+Les ordinateurs qui se connectent au Web sont appelés des clients et des serveurs. Voici un diagramme simplifié qui illustre comment ils interagissent :
+
+Les clients correspondent aux appareils des utilisateurs connectés sur Internet (par exemple, votre ordinateur ou téléphone connecté sur le réseau mobile) 
+
+et aux logiciels d'accès au web (par exemple les navigateurs : Firefox ou Chrome).
+
+Les serveurs sont des ordinateurs qui stockent des pages web, des sites ou des applications. 
+
+Lorsqu'un appareil « client » souhaite accéder à une page web, une copie de la page est téléchargée depuis le serveur vers le client, 
+
+la machine utilisée affiche alors le contenu dans le navigateur web de l'utilisateur.
+
+
+
+*****   De quoi avez-vous besoin pour être développeur Web ? *****
+
+ Il faut avoir les bonnes compétences. La technicité du développement web demande des connaissances variées en langage de programmation et une adaptation constante à leurs évolutions.
+ 
+Le travail d'un développeur Web consiste à utiliser les éléments de base du Web (comme HTML, CSS et JavaScript) pour créer quelque chose de complexe comme une page Web 
+
+
+***** Quel est le rôle d’un développeur Web ? *****
+
+Un développeur Web est dans l'âme un artiste interactif. C'est quelqu'un qui est animé par un profond désir de créer des choses. Le canevas d'un développeur Web est le navigateur Web d'un utilisateur.
+
+Donc , Le développeur web réalise l'ensemble des fonctionnalités techniques d'un site ou d'une application web , 
+
+et conçoit des sites sur mesure ou adapte des solutions techniques existantes en fonction du projet et de la demande du client
